@@ -17,13 +17,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/joe_sey☘️" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joe_sey☘️" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahadzijoelsenyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahadzijoelsenyo" height="30" width="40" /></a>
+<a href="https://twitter.com/Joe_teslagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joe_sey☘️" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahadzi-joel-senyo-298b56212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahadzijoelsenyo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20993869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20993869" height="30" width="40" /></a>
-<a href="https://kaggle.com/senyo joel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="senyo joel" height="30" width="40" /></a>
-<a href="https://instagram.com/sen joes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sen joes" height="30" width="40" /></a>
-<a href="https://dribbble.com/joel senyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="joel senyo" height="30" width="40" /></a>
-<a href="https://www.behance.net/ahadzi joelsenyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ahadzi joelsenyo" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/senyojoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="senyo joel" height="30" width="40" /></a>
+<a href="https://www.instagram.com/senjoes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sen joes" height="30" width="40" /></a>
+<a href="https://dribbble.com/Josey001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="joel senyo" height="30" width="40" /></a>
+<a href="https://www.behance.net/daveulna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ahadzi joelsenyo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
