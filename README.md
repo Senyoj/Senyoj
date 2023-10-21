@@ -1,4 +1,4 @@
-<img align="right" width ='600' alt=" animated"  src="https://miro.medium.com/v2/resize:fit:679/1*ubCR6WyFNthQVQ9D4AIO9g.gif" />
+<img align="right" width ='400' alt=" animated"  src="https://miro.medium.com/v2/resize:fit:679/1*ubCR6WyFNthQVQ9D4AIO9g.gif" />
 
 
 <h1 align="center">Hi 👋, I'm Senyo Joel Ahadzi</h1>
