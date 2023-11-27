@@ -13,7 +13,7 @@
 
 - 📄 My Experiences [https://docs.google.com/document/d/14Zd8CPg4NKs3FXprkRCx0Y2l4KsROVR0/edit?usp=share_link&ouid=103885991969582211727&rtpof=true&sd=true](https://docs.google.com/document/d/14Zd8CPg4NKs3FXprkRCx0Y2l4KsROVR0/edit?usp=share_link&ouid=103885991969582211727&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I once solved a complex coding problem while skydiving at 10,000 feet. Talk about debugging on the fly!😄**
+- ⚡ Fun fact **I once solved a complex coding problem while skydiving at 10,000 feet. Talk about debugging in the fly!😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
