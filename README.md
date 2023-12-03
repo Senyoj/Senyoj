@@ -4,4 +4,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Senyoj&layout=compact&theme=dark)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Senyoj&theme=github)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Senyoj&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&hide_border=true)
