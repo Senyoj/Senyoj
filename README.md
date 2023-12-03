@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=F83E77&center=true&vCenter=true&lines=I+am+a+Software+Engineer;I+am+a+Graphics+Designer;I+am+a+Mobile+App+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=F83E77&size=40&center=true&vCenter=true&lines=I+am+a+Software+Engineer;I+am+a+Graphics+Designer;I+am+a+Mobile+App+Developer)
 
 ## 🚀 Passionate Explorer | 💻 Code Artisan | 🌟 Tech Enthusiast
 
