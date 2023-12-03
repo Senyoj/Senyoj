@@ -4,14 +4,13 @@
 
 Welcome to my digital universe! I'm Senyo Joel, an avid explorer of the vast realms of technology and a seasoned code artisan. With a burning passion for innovation, I embark on a journey to create digital experiences that transcend boundaries.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=F83E77&size=40&center=true&vCenter=true&lines=I+am+a+Software+Engineer;I+am+a+Graphics+Designer;I+am+a+Mobile+App+Developer)
 
 ## 🛠️ My Tech Stack
 
 Here are some technologies I work with:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C++-007396?style=for-the-badge&logo=java&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <!-- Add more badges for your tech stack -->
